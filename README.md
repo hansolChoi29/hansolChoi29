@@ -1,7 +1,10 @@
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://github-readme-stats.vercel.app/api?username=hansolchoi29&bg_color=000000&title_color=ffffff&text_color=7a77d8" width="800"/>
-</a>
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://github-readme-stats.vercel.app/api?username=hansolchoi29&bg_color=000000&title_color=ffffff&text_color=7a77d8" width="800"/>
+  </a>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm hansol choi</h1>
 <h3 align="center">living the dream in South Korea</h3>
