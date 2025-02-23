@@ -23,16 +23,6 @@
 
   
 
-### 🌐 Socials
-<p align="center">
-  <a href="https://instagram.com/_hxnxol_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=crimson"/>
-  </a>
-  <a href="https://discord.gg/coehansol0140" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=blueviolet"/>
-  </a>
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,3 +45,16 @@
     height="300"
   />
 </a>
+
+
+
+### 🌐 Socials
+<p align="center">
+  <a href="https://instagram.com/_hxnxol_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=crimson"/>
+  </a>
+  <a href="https://discord.gg/coehansol0140" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=blueviolet"/>
+  </a>
+</p>
+
