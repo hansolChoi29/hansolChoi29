@@ -21,11 +21,10 @@
 
 - 📫 How to reach me **ggksthf29@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_hxnxol_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hxnxol_" height="30" width="40" /></a>
-<a href="https://discord.gg/coehansol0140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="coehansol0140" height="30" width="40" /></a>
-</p>
+### 📱 Socials
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_hxnxol_)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/coehansol0140)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
