@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm hansol choi</h1>
+<h1 align="center">Hi 👋, I'm hansol Choi</h1>
 <h3 align="center">living the dream in South Korea</h3>
 
 
