@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://github-readme-stats.vercel.app/api?username=hansolchoi29&bg_color=000000&title_color=ffffff&text_color=7a77d8"/>
 </a>
