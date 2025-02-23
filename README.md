@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on [Duo_Dingco](https://github.com/reizvoll/Duo_Dingco)
 
+- 🚀 Final Project: [DoGo Project](https://github.com/Noonsae/DoGo_project)
+
 - 🌱 I’m currently learning **react, next.js, tailwind css, styled-componenets, react-query**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hansolChoi29](https://github.com/hansolChoi29)
