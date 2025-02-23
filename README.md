@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm hansol choi</h1>
 <h3 align="center">living the dream in South Korea</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansolchoi29" alt="hansolchoi29" /></a> </p>
+
 
 - 🔭 I’m currently working on [Duo_Dingco](https://github.com/reizvoll/Duo_Dingco)
 
