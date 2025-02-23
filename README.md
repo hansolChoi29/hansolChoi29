@@ -21,9 +21,16 @@
 
 - 📫 How to reach me **ggksthf29@gmail.com**
 
-### 📱 Socials
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_hxnxol_)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/coehansol0140)
+### 🌐 Socials
+<p align="center">
+  <a href="https://instagram.com/_hxnxol_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=crimson"/>
+  </a>
+  <a href="https://discord.gg/coehansol0140" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=blueviolet"/>
+  </a>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
