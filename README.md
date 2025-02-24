@@ -37,7 +37,7 @@
 </p>
 
 
-
+<p align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hansolChoi29&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/hansolChoi29"
@@ -45,6 +45,8 @@
   height="300"
 />
 </a>
+</p>
+
 
 ### 🌐 Socials
 <p align="center">
