@@ -22,7 +22,7 @@
 - 📫 How to reach me **ggksthf29@gmail.com**
 
   
-
+<hr />
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=teal"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue"/>
 </p>
+
 
 
 <p align="center">
