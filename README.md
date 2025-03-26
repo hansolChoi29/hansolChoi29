@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm hansol Choi</h1>
-<h3 align="center">living the dream in South Korea</h3>
+<h3 align="center">Turning Dreams into Reality in Korea</h3>
 
 
 
