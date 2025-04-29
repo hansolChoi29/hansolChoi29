@@ -1,18 +1,11 @@
 
-<p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://github-readme-stats.vercel.app/api?username=hansolchoi29&bg_color=000000&title_color=ffffff&text_color=7a77d8" width="800"/>
-  </a>
-</p>
-
-
 <h1 align="center">Hi 👋, I'm hansol Choi</h1>
 <h3 align="center">Turning Dreams into Reality in Korea</h3>
 
 
 
 - 🔭 I’m currently working on [Duo_Dingco](https://github.com/reizvoll/Duo_Dingco)
-
+- 🔭 I’m currently working on [CAMKEEP](https://github.com/hansolChoi29/camkeep)
 - 🚀 Final Project: [DoGo Project](https://github.com/Noonsae/DoGo_project)
 
 - 🌱 I’m currently learning **react, next.js, tailwind css, styled-componenets, react-query**
