@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm hansol Choi</h1>
 <p align="center">
   <img 
-    src="https://i.pinimg.com/736x/54/a8/7e/54a87ed49e6ea52b477ac9995c74e91d.jpg" 
+    src="https://i.pinimg.com/736x/55/d3/9a/55d39aa317f5e69b782d79a0634a57e4.jpg" 
     width="400" 
     alt="짱규 샷" 
   />
