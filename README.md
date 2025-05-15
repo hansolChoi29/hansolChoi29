@@ -1,12 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm hansol Choi</h1>
-<p align="center">
-  <img 
-    src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FePoFym%2FbtsNX0LUzyA%2FjQWpxcUEZKQrkf0kL9Gih0%2Fimg.jpg" 
-    width="400" 
-    alt="짱규 샷" 
-  />
-</p>
+
 <h3 align="center">Turning Dreams into Reality in Korea</h3>
 
 
