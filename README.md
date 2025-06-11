@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm hansol Choi</h1>
-<p align="center">Turning Dreams into Reality in Korea</p>
-
-<h2>Future Learning Plans</h2>
-<ul>
-  <li>Master backend development with Java and Spring to build robust and scalable APIs.</li>
-  <li>Gain hands-on experience with cloud platforms (AWS, GCP) and microservices architecture for efficient application scaling.</li>
-  <li>Strengthen my React, Next.js, and database management skills, with a focus on securing frontend applications and delivering innovative UI experiences.</li>
-</ul>
-
-<hr />
 
 <p><strong>My portfolio:</strong> <a href="https://portfolio-ace-ten.vercel.app/" target="_blank">portfolio</a></p>
 
