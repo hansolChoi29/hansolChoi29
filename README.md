@@ -8,14 +8,12 @@
 
 <p align="center">
   <a href="https://instagram.com/_hxnxol_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=crimson"/>
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://discord.gg/KWB6scSq" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=blueviolet"/>
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-
-
 
 <p><strong>My portfolio:</strong> <a href="https://portfolio-ace-ten.vercel.app/" target="_blank">portfolio</a></p>
 
