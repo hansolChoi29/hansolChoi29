@@ -3,10 +3,19 @@
 
 
 <h3 align="center">Turning Dreams into Reality in Korea</h3>
-**Future Learning Plans:**
-- Master backend development with Java and Spring to build robust and scalable APIs.
+Future Learning Plans
+<p>
+  
+- Master backend development with Java and Spring to build robust and scalable APIs. 
+</p>
+<p>
+  
 - Gain hands-on experience with cloud platforms (AWS, GCP) and microservices architecture for efficient application scaling.
+</p>
+<p>
+  
 - Strengthen my React, Next.js, and database management skills, with a focus on securing frontend applications and delivering innovative UI experiences.
+</p>
 
 
 - My portfolio [portfolio](https://portfolio-ace-ten.vercel.app/)
