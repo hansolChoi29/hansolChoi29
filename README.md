@@ -4,13 +4,11 @@
 
 <h3 align="center">Turning Dreams into Reality in Korea</h3>
 
-
+My portfolio [portfolio](https://portfolio-ace-ten.vercel.app/)
 
 - 🔭 I’m currently working on [CAMKEEP](https://github.com/hansolChoi29/camkeep)
 
 - 🚀 Project:[Duo_Dingco](https://github.com/reizvoll/Duo_Dingco) & [DoGo Project](https://github.com/Noonsae/DoGo_project)
-
-- 👨‍💻 All of my projects are available at [https://github.com/hansolChoi29](https://github.com/hansolChoi29)
 
 - 📫 How to reach me **ggksthf29@gmail.com**
 
