@@ -1,3 +1,8 @@
+![Welcome](https://capsule-render.vercel.app/api?type=waving&color=85CEEB&height=300&section=header&text=Welcome&fontSize=60&animation=twinkling&fontColor=E6F7FF)
+
+
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hansolChoi29)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansolChoi29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,7 +48,7 @@
 </p>
 
 
-### 🌐 Socials
+###  SNS list
 <p align="center">
   <a href="https://instagram.com/_hxnxol_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=crimson"/>
