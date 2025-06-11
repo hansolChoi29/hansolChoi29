@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm hansol Choi</h1>
+<h1 align="center">Hi 👋, I'm hansol Choi
+</h1>
+<p align="center">Turning Dreams into Reality in Korea</p>
 
-
-<h3 align="center">Turning Dreams into Reality in Korea</h3>
 <h2>Future Learning Plans</h2>
 <p>- Master backend development with Java and Spring to build robust and scalable APIs. </p>
 <p>- Gain hands-on experience with cloud platforms (AWS, GCP) and microservices architecture for efficient application scaling.</p>
