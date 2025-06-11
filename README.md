@@ -3,14 +3,21 @@
 
 
 <h3 align="center">Turning Dreams into Reality in Korea</h3>
+<h3>  
+Future Learning Plans
+</h3>
+- Master backend development with Java and Spring to build robust and scalable APIs.
+- Gain hands-on experience with cloud platforms (AWS, GCP) and microservices architecture for efficient application scaling.
+- Strengthen my React, Next.js, and database management skills, with a focus on securing frontend applications and delivering innovative UI experiences.
 
-My portfolio [portfolio](https://portfolio-ace-ten.vercel.app/)
+- My portfolio [portfolio](https://portfolio-ace-ten.vercel.app/)
 
 - 🔭 I’m currently working on [CAMKEEP](https://github.com/hansolChoi29/camkeep)
 
 - 🚀 Project:[Duo_Dingco](https://github.com/reizvoll/Duo_Dingco) & [DoGo Project](https://github.com/Noonsae/DoGo_project)
 
 - 📫 How to reach me **ggksthf29@gmail.com**
+
 
   
 <hr />
