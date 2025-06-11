@@ -1,3 +1,7 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hansolChoi29)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansolChoi29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p><strong>My portfolio:</strong> <a href="https://portfolio-ace-ten.vercel.app/" target="_blank">portfolio</a></p>
 
