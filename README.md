@@ -3,8 +3,8 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hansolChoi29)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansolChoi29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Hansol's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansolChoi29&show_icons=true&bg_color=000000&title_color=8ea3e3&text_color=8ea3e3&icon_color=8ea3e3&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansolChoi29&layout=compact&bg_color=000000&title_color=8ea3e3&text_color=8ea3e3&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://instagram.com/_hxnxol_" target="_blank">
