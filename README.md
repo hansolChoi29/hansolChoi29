@@ -12,8 +12,8 @@
 
 <p><strong>My portfolio:</strong> <a href="https://portfolio-ace-ten.vercel.app/" target="_blank">portfolio</a></p>
 
-<p><strong>🔭 I’m currently working on:</strong> <a href="https://github.com/hansolChoi29/camkeep" target="_blank">CAMKEEP</a>
-<a href="https://github.com/hansolChoi29/ACE_Monster" target="_blank">CAMKEEP</a>
+<p><strong>🔭 I’m currently working on:</strong> <a href="https://github.com/hansolChoi29/camkeep" target="_blank">CAMKEEP</a> & 
+<a href="https://github.com/hansolChoi29/ACE_Monster" target="_blank">ACE_Monster</a>
 </p>
 
 
