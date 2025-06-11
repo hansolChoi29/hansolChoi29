@@ -1,24 +1,23 @@
-
-<h1 align="center">Hi 👋, I'm hansol Choi
-</h1>
+<h1 align="center">Hi 👋, I'm hansol Choi</h1>
 <p align="center">Turning Dreams into Reality in Korea</p>
 
 <h2>Future Learning Plans</h2>
-<p>- Master backend development with Java and Spring to build robust and scalable APIs. </p>
-<p>- Gain hands-on experience with cloud platforms (AWS, GCP) and microservices architecture for efficient application scaling.</p>
-<p>- Strengthen my React, Next.js, and database management skills, with a focus on securing frontend applications and delivering innovative UI experiences.</p>
+<ul>
+  <li>Master backend development with Java and Spring to build robust and scalable APIs.</li>
+  <li>Gain hands-on experience with cloud platforms (AWS, GCP) and microservices architecture for efficient application scaling.</li>
+  <li>Strengthen my React, Next.js, and database management skills, with a focus on securing frontend applications and delivering innovative UI experiences.</li>
+</ul>
 
+<hr />
 
-- My portfolio [portfolio](https://portfolio-ace-ten.vercel.app/)
+<p><strong>My portfolio:</strong> <a href="https://portfolio-ace-ten.vercel.app/" target="_blank">portfolio</a></p>
 
-- 🔭 I’m currently working on [CAMKEEP](https://github.com/hansolChoi29/camkeep)
+<p><strong>🔭 I’m currently working on:</strong> <a href="https://github.com/hansolChoi29/camkeep" target="_blank">CAMKEEP</a></p>
 
-- 🚀 Project:[Duo_Dingco](https://github.com/reizvoll/Duo_Dingco) & [DoGo Project](https://github.com/Noonsae/DoGo_project)
+<p><strong>🚀 Projects:</strong> <a href="https://github.com/reizvoll/Duo_Dingco" target="_blank">Duo_Dingco</a> & <a href="https://github.com/Noonsae/DoGo_project" target="_blank">DoGo Project</a></p>
 
-- 📫 How to reach me **ggksthf29@gmail.com**
+<p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
 
-
-  
 <hr />
 
 
