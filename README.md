@@ -6,8 +6,8 @@
 
 
 
-- 🔭 I’m currently working on [Duo_Dingco](https://github.com/reizvoll/Duo_Dingco)
-- 🔭 I’m currently working on [CAMKEEP](https://github.com/hansolChoi29/camkeep)
+- 🔭 I’m currently working on [Duo_Dingco](https://github.com/reizvoll/Duo_Dingco) & [CAMKEEP](https://github.com/hansolChoi29/camkeep)
+
 - 🚀 Final Project: [DoGo Project](https://github.com/Noonsae/DoGo_project)
 
 - 🌱 I’m currently learning **react, next.js, tailwind css, styled-componenets, react-query**
