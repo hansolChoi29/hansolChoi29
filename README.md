@@ -24,7 +24,8 @@
 
 <p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
 <p>
-Recent Issue: Troubleshooting<a href="https://winwin0219.tistory.com/entry/ACEMonster-ReacttailwindCSS" target="_blank">React+Vite+pnpm 환경에서 Tailwind CSS 설치·설정 이슈</a>
+Recent Issue
+  <a href="https://winwin0219.tistory.com/entry/ACEMonster-ReacttailwindCSS" target="_blank">React+Vite+pnpm 환경에서 Tailwind CSS 설치·설정 이슈</a>
   
 </p>
 <hr />
