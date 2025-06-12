@@ -52,7 +52,7 @@
 <img
   src="https://render.gitanimals.org/farms/hansolChoi29"
   width="600"
-  height="300"
+  height="400"
 />
 </a>
 </p>
