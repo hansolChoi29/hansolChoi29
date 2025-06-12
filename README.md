@@ -23,7 +23,10 @@
 <p><strong>🚀 Projects:</strong> <a href="https://github.com/reizvoll/Duo_Dingco" target="_blank">Duo_Dingco</a> & <a href="https://github.com/Noonsae/DoGo_project" target="_blank">DoGo Project</a></p>
 
 <p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
-
+<p>
+Recent Issue: Troubleshooting<a href="https://winwin0219.tistory.com/entry/ACEMonster-ReacttailwindCSS" target="_blank">React+Vite+pnpm 환경에서 Tailwind CSS 설치·설정 이슈</a>
+  
+</p>
 <hr />
 
 <p align="center">☁️ Frontend ☁️</p>
