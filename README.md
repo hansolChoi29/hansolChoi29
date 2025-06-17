@@ -25,7 +25,7 @@
 <p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
 <p>
 Recent Issue
-  <a href="https://winwin0219.tistory.com/entry/ACEMonster-ReacttailwindCSS" target="_blank">React+Vite+pnpm 환경에서 Tailwind CSS 설치·설정 이슈</a> </hr>
+  <a href="https://winwin0219.tistory.com/entry/ACEMonster-ReacttailwindCSS" target="_blank">React+Vite+pnpm 환경에서 Tailwind CSS 설치·설정 이슈</a>
   <a href="  https://velog.io/@hansol_choi/%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98-%EC%9E%90%EB%B0%94" target="_blank"> 최소한의 자바 </a>
 
 </p>
