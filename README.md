@@ -20,7 +20,7 @@
 </p>
 
 
-<p><strong>🚀 Projects:</strong> <a href="https://github.com/reizvoll/Duo_Dingco" target="_blank">Duo_Dingco</a> & <a href="https://github.com/Noonsae/DoGo_project" target="_blank">DoGo Project</a></p>
+<p><strong>🚀 Projects:</strong>  <a href="https://github.com/Noonsae/DoGo_project" target="_blank">DoGo Project</a></p>
 
 <p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
 <p>
