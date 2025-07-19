@@ -69,8 +69,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hansolChoi29&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/hansolChoi29"
-  width="800"
-  height="500"
+  width="600"
+  height="400"
 />
 </a>
 </p>
