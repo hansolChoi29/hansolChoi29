@@ -52,10 +52,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </p>
 
-<p align="center">☁️ Backend ☁️</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
+
 
 <p align="center">☁️ Styling ☁️</p>
 <p align="center">
@@ -67,6 +64,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+<p align="center">☁️ Now Learning ☁️</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
 <p align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hansolChoi29&utm_content=farm">
