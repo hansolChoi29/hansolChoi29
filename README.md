@@ -18,7 +18,7 @@
 </p>
 
 <p><strong>🔭 I’m currently working on:</strong> <a href="https://github.com/hansolChoi29/camkeep" target="_blank">CAMKEEP</a> & 
-<a href="https://github.com/hansolChoi29/ACE_Monster" target="_blank">ACE_Monster</a>
+<a href="https://github.com/hansolChoi29/daily-3win" target="_blank">daily-3win</a>
 </p>
 
 
