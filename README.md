@@ -29,22 +29,7 @@
 <p>
   <strong>Recent Issues</strong>
 </p>
-<ul>
-  <li>
-    <a href="https://winwin0219.tistory.com/entry/ACEMonster-ReacttailwindCSS"
-       target="_blank" rel="noopener">
-      React+Vite+pnpm 환경에서 Tailwind CSS 설치·설정 이슈
-    </a>
-  </li>
-  
-  <li>
-    <a href="https://winwin0219.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98Data-Structures-Algorithms"
-       target="_blank" rel="noopener">
-      자료구조와 알고리즘 | 시간복잡도  
-      <em>(Data Structures &amp; Algorithms with Time Complexity)</em>
-    </a>
-  </li>
-</ul>
+
 
 
 <p align="center">☁️ Frontend ☁️</p>
@@ -61,7 +46,7 @@
 
 <p align="center">☁️ Tools & ETC ☁️</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 <p align="center">☁️ Now Learning ☁️</p>
