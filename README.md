@@ -74,7 +74,7 @@
 <img
   src="https://render.gitanimals.org/farms/hansolChoi29"
   width="600"
-  height="400"
+  height="300"
 />
 </a>
 </p>
