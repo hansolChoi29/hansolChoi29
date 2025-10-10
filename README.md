@@ -5,13 +5,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansolChoi29&layout=compact&bg_color=000000&title_color=8ea3e3&text_color=8ea3e3&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
+    <p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
   <a href="https://instagram.com/_hxnxol_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://discord.gg/KWB6scSq" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
+
 </p>
 
 
