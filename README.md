@@ -11,9 +11,10 @@
   <a href="https://discord.gg/KWB6scSq" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+  <p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
 </p>
 
-<p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
+
 <p>
 
 
