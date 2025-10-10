@@ -1,6 +1,5 @@
 ![Backend ready?](https://capsule-render.vercel.app/api?type=waving&height=270&section=header&text=Hello&fontSize=60&animation=twinkling&backgroundColor=000000&color=8EA3E3&fontColor=8EA3E3&v=2)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=000000&multiline=true&repeat=false&width=600&height=120&lines=Backend+Focused+Developer;Ready%3F+%F0%9F%94%A5)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=000000&width=435&lines=Backend+Focused+Developer;Ready%3F+%F0%9F%94%A5)](https://git.io/typing-svg)
 [![Hansol's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansolChoi29&show_icons=true&bg_color=000000&title_color=8ea3e3&text_color=8ea3e3&icon_color=8ea3e3&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansolChoi29&layout=compact&bg_color=000000&title_color=8ea3e3&text_color=8ea3e3&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
