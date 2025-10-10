@@ -13,22 +13,9 @@
   </a>
 </p>
 
-<p><strong>My Portfolio</strong>
-  <a href="https://portfolio-ace-ten.vercel.app/" target="_blank">fireAce go project</a>
-</p>
-
-<p><strong>🔭 I’m currently working on:</strong> <a href="https://github.com/hansolChoi29/camkeep" target="_blank">CAMKEEP</a> & 
-<a href="https://github.com/hansolChoi29/daily-3win" target="_blank">daily-3win</a>
-</p>
-
-
-<p><strong>🚀 Projects:</strong>  <a href="https://github.com/Noonsae/DoGo_project" target="_blank">DoGo Project</a></p>
-
 <p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
 <p>
-<p>
-  <strong>Recent Issues</strong>
-</p>
+
 
 <p align="center">☁️ Now Learning ☁️</p>
 <p align="center">
