@@ -8,24 +8,7 @@
 <p>
 
 
-<p align="center">☁️ Now Learning ☁️</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
-
-
-<p align="center">☁️ Tools & ETC ☁️</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
-
-<p align="center">☁️ Previous Frontend Experience ☁️</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs" />
-  <img src="https://skillicons.dev/icons?i=css,tailwind" />
-</p>
-
-
+<p align="center">☁️ Now Learning ☁️</p> <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,githubactions" /> </p> <p align="center">☁️ Tools & ETC ☁️</p> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" /> </p> <p align="center">☁️ Previous Frontend Experience ☁️</p> <p align="center"> <img src="https://skillicons.dev/icons?i=ts,react,nextjs" />  </p>
 
 <p align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hansolChoi29&utm_content=farm">
