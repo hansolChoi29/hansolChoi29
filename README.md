@@ -32,7 +32,7 @@
 
   <p align="center">☁️ Tools ☁️</p>
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev)<br/>
+  [![My Skills](https://skillicons.dev/icons?i=git,github,postman,idea,vscode)](https://skillicons.dev)<br/>
 
 </div>
 
