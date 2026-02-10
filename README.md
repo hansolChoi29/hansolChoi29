@@ -14,7 +14,7 @@
   <p align="center">☁️ Backend ☁️</p>
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle)](https://skillicons.dev)<br/>
-  [![My Skills](https://skillicons.dev/icons?i=mysql,redis,elasticsearch)](https://skillicons.dev)<br/>
+  [![My Skills](https://skillicons.dev/icons?i=redis,elasticsearch)](https://skillicons.dev)<br/>
 
   <p align="center">☁️ Infra ☁️</p>
 
