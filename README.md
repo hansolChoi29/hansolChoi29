@@ -34,7 +34,7 @@
 
 </div>
 <p><strong>📫 How to reach me:</strong> <a href="mailto:ggksthf29@gmail.com">ggksthf29@gmail.com</a></p>
-<p><a href="https://backend-portfolio-liart-alpha.vercel.app/"></a><strong>🍾backend-portfolio</strong></p>
+<p><a href="https://backend-portfolio-liart-alpha.vercel.app/"><strong>🍾backend-portfolio</strong></a></p>
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hansolChoi29&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/hansolChoi29?v=3" width="600" height="300"/>
