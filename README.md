@@ -6,11 +6,10 @@
   <p align="center">☁️ Backend ☁️</p>
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle)](https://skillicons.dev)<br/>
-  [![My Skills](https://skillicons.dev/icons?i=redis,elasticsearch)](https://skillicons.dev)<br/>
 
-  <p align="center">☁️ Database ☁️</p>
+  <p align="center">☁️ Data & Search ☁️</p>
 
-  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<br/>
+  [![My Skills](https://skillicons.dev/icons?i=mysql,redis,elasticsearch)](https://skillicons.dev)<br/>
 
   <p align="center">☁️ Infra & DevOps ☁️</p>
 
