@@ -7,7 +7,7 @@
 
 | Category | Stack                                       |
 | -------- | ------------------------------------------- |
-| Backend  | Java, Spring Boot, JPA                      |
+| Backend  | Java, Spring Boot                      |
 | Database | MySQL, PostgreSQL, Redis                    |
 | Infra    | AWS, Docker, Nginx                          |
 | Tools    | Git, GitHub Actions, Postman, IntelliJ IDEA |
@@ -19,7 +19,7 @@
 | Project                                                     | Description                                     |
 | ----------------------------------------------------------- | ----------------------------------------------- |
 | [CoreBoard](https://github.com/hansolChoi29/CoreBoard)      | 대용량 조회 성능 개선 및 Redis 기반 조회수·인기 게시글 구현           |
-| [Momentix](https://github.com/hansolChoi29/Momentix) · Team | 티켓 예매 서비스의 인증, Elasticsearch 검색, 포인트 및 CI/CD 구현 |
+| [Todak-Todag]([https://github.com/hansolChoi29/Momentix](https://github.com/Todak-Todag/server)) · Team | 지역 내 서비스 제공자와 연결하여 퇴원 후 돌봄을 지속적으로 관리할 수 있도록 지원하는 지역 기반 케어 플랫폼 |
 
 
 <br/>
