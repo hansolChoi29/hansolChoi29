@@ -1,4 +1,4 @@
-![Backend ready?](https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=hansol%27s+GitHub&fontSize=60&animation=twinkling&color=00000000&fontColor=FF8A32&v=2)
+![Backend ready?](https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=hansol%27s+GitHub&fontSize=60&animation=twinkling&color=00000000&fontColor=D98B5F&v=2)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&duration=3000&pause=1073&color=FF8A32&background=FFFFFF00&width=435&lines=Backend+Focused+Developer.;Designing+APIs+and+Operating+Services.)
 
